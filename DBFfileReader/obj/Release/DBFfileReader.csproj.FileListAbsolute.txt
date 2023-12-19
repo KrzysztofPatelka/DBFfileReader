@@ -1,0 +1,10 @@
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\bin\Release\DBFfileReader.exe.config
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\bin\Release\DBFfileReader.exe
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\bin\Release\DBFfileReader.pdb
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\obj\Release\DBFfileReader.csproj.AssemblyReference.cache
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\obj\Release\DBFfileReader.Properties.Resources.resources
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\obj\Release\DBFfileReader.StartWindow.resources
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\obj\Release\DBFfileReader.csproj.GenerateResource.cache
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\obj\Release\DBFfileReader.csproj.CoreCompileInputs.cache
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\obj\Release\DBFfileReader.exe
+C:\Users\krzysztof.patelka\source\repos\DBFfileReader\DBFfileReader\obj\Release\DBFfileReader.pdb
