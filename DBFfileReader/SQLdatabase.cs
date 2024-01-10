@@ -125,7 +125,7 @@ namespace DBFfileReader
                 question += ");";
                 foreach (DataGridViewRow row in rows)
                 {
-                    MessageBox.Show(question);
+                    //MessageBox.Show(question);
                     using (SqlCommand cmd = new SqlCommand(question, sqlConnection, trans))
                     {
                         int i = 0;
